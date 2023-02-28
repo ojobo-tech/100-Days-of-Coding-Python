@@ -21,3 +21,4 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 
 [Life in Weeks](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day-2/Ex.3)
 
+[Project - Tip Calculator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day-2/Project/Tip%20Calculator)
