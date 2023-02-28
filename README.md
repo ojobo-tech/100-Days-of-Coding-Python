@@ -13,3 +13,9 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 
 [Project - Band Name Generator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day-1/Band%20Name%20Generator)
 
+[Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day-2)
+
+[Exercise - Data Types](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day-2/Ex.1)
+
+[BMI Calculator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day-2/Ex.2)
+
