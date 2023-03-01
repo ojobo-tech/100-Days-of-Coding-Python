@@ -26,3 +26,5 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Day 3- Control Flow and Logical Operators](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%203)
 
 [Exercise - Odd or Even? Introducing the Modulo](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Ex.1)
+
+[Exercise - BMI 2.0](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Ex.%202)
