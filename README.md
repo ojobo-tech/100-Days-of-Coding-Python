@@ -32,3 +32,5 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Exercise - Leap Year](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Ex.3)
 
 [Exercise - Pizza Price](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Ex.%204)
+
+[Exercise - Love Calculator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Ex.%205)
