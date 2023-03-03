@@ -50,3 +50,5 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Day 5 - Python Loops](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%205)
 
 [Exercise - Average Height](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Ex.%201)
+
+[Exercise- Adding Even Numbers}(https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Ex.3)
