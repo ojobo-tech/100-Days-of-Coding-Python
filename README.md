@@ -46,3 +46,7 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Exercise- Treasure Map](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Ex.3)
 
 [Project-Rock Paper Scissors](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Rock%20Paper%20Scissors)
+
+[Day 5 - Python Loops](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%205)
+
+[Exercise - Average Height](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Ex.%201)
