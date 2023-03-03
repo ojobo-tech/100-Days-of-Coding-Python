@@ -36,3 +36,7 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Exercise - Love Calculator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Ex.%205)
 
 [Project- Treasure Island](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%203/Project)
+
+[Day 4- Randomisation and Python Lists](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%204)
+
+[Exercise Heads or Tails](
