@@ -45,4 +45,4 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 
 [Exercise- Treasure Map](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Ex.3)
 
-[Exercise-Rock Paper Scissors](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Rock%20Paper%20Scissors)
+[Project-Rock Paper Scissors](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Rock%20Paper%20Scissors)
