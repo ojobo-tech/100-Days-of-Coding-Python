@@ -56,3 +56,5 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Exercise- Adding Even Numbers](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Ex.3)
 
 [Exercise - Fuzz Bizz](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Ex.4)
+
+[Project- Password Generator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Password%20Generator)
