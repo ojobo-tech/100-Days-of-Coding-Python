@@ -40,3 +40,9 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Day 4- Randomisation and Python Lists](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%204)
 
 [Exercise Heads or Tails](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Ex.%201)
+
+[Exercise- Banker Roulette](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Ex.%202)
+
+[Exercise- Treasure Map](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Ex.3)
+
+[Exercise-Rock Paper Scissors](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%204/Rock%20Paper%20Scissors)
