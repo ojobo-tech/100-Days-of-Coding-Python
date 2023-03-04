@@ -59,10 +59,12 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 
 [Project- Password Generator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%205/Password%20Generator)
 
-[Day 5 - Python Fuctions](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%206)
+[Day 6 - Python Fuctions](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%206)
 
 [Exercise -Hurdles Loop Challenge](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%206/Ex.%201)
 
 [Exercise-Hurdle Challenge with While Loop](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%206/Ex.%202)
 
 [Exercise- Hurdle with Variable Heights](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%206/Ex.3)
+
+[Project - Escaping the Maze](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%206/Escape%20The%20Maze)
