@@ -76,3 +76,5 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Exercise- Paint Area Calculator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%208/Paint%20Area%20Calculator)
 
 [Exercise- Prime Numbers](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%208/Prime%20Numbers)
+
+[Exercise- Caesar Cypher](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%208/Caesar%20Cypher)
