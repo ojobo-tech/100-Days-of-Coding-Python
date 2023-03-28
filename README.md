@@ -70,3 +70,9 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
 [Project - Escaping the Maze](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%206/Escape%20The%20Maze)
 
 [Day 7 - Hangman](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%207)
+
+[Day 8 - Functions and Inputs](https://github.com/ojobo-tech/100-Days-of-Coding-Python/tree/main/Day%208)
+
+[Exercise- Paint Area Calculator](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%208/Paint%20Area%20Calculator)
+
+[Exercise- Prime Numbers](https://github.com/ojobo-tech/100-Days-of-Coding-Python/blob/main/Day%208/Prime%20Numbers)
